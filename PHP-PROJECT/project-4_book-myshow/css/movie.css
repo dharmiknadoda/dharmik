@@ -1,0 +1,23 @@
+* {
+    padding: 0;
+    margin: 0;
+  }
+  .img{
+    height: 30px !important;
+    width: 30px !important;   
+    margin-top: 10px;
+  }
+  
+  .poster img{
+    border-radius: 15px;
+  } 
+  .main {
+    padding: 50px;
+    background-image: linear-gradient(90deg, rgb(26, 26, 26) 24.97%, rgb(26, 26, 26) 38.3%, rgba(26, 26, 26, 0.04) 97.47%, rgb(26, 26, 26) 100%), url(/img/banner.avif);
+    background-position: 20px -70px;
+  }
+  .reat{
+    padding: 10px 30px !important;
+    border-radius: 10px;
+    background-color: rgb(51, 51, 51);
+  }
